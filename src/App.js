@@ -3,15 +3,12 @@ import Board from './Board'
 import calculateWinner from './helper'
 
 class App extends Component {
-  constructor(props) {
-    super(props)
-    this.state = {
+ state = {
       history: [{ squares: Array(9).fill(null) }],
       coordinates: [[1, 1], [1, 2], [1, 3], [2, 1], [2, 2], [2, 3], [3, 1], [3, 2], [3, 3]],
       xIsNext: true,
       stepNumber: 0,
       location: []
-    }
   }
 
   goTo(step) {
