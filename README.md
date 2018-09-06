@@ -1,7 +1,6 @@
 # Tic-Tac-Toe Project
 
-- This project is built with ReactJS.
-- It is a Tic-Tac-Toe game web app.
+It is a Tic-Tac-Toe game web app, built with ReactJS.
 
 
 # Project Screenshot
