@@ -5,7 +5,7 @@ This is a Tic-Tac-Toe game web app, built with ReactJS.
 
 # Project Screenshot
 
-![](src/screenshot.png)
+<img src='src/screenshot.png' width='500'>
 
 
 # Installation Instructions
