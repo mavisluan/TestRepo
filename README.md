@@ -10,6 +10,7 @@ This is a Tic-Tac-Toe game web app, built with ReactJS.
 
 # Installation Instructions
 
-- clone my repo git clone https://github.com/mavisluan/Tic_Tac_Toe.git
-- install all project dependencies with yarn install
-- start the development server with yarn start
+- git clone https://github.com/mavisluan/Tic_Tac_Toe.git
+- cd Tic_Tac_Toe
+- yarn install
+- yarn start
